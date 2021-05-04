@@ -24,3 +24,8 @@ As informações utilizadas para a modelagem e criação do banco de dados do Ge
 
 ## Diagrama
 ![Alt Text](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Diagrama.png)
+
+## Ferramentas
+* PostgreSQL
+* pgAdmin
+* SQL & PL/SQL
