@@ -21,3 +21,6 @@ As informações utilizadas para a modelagem e criação do banco de dados do Ge
 * Os professores trabalham em um ou mais departamentos e, para cada departamento em que eles trabalham, uma porcentagem de tempo está associada a seu trabalho.
 * Os  alunos  de  pós-graduação  têm  um  departamento principal  no  qual  eles  estão conduzindo seu programa de pós-graduação.
 * Cada   aluno   de  pós-graduação  tem  um  outro  aluno  de  pós-graduação  mais experiente  (conhecido  como  conselheiro  do  aluno)  que  o  aconselha  nos  cursos  a que deve assistir.
+
+## Diagrama
+![Alt Text](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Diagrama.png)
