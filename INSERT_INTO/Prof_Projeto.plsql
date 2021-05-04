@@ -1,0 +1,10 @@
+INSERT INTO public."Prof_Projeto" VALUES (903, 3, 305, 'Co-Pesquisador');
+INSERT INTO public."Prof_Projeto" VALUES (905, 5, 302, 'Co-Pesquisador');
+INSERT INTO public."Prof_Projeto" VALUES (906, 6, 304, 'Co-Pesquisador');
+INSERT INTO public."Prof_Projeto" VALUES (910, 10, 308, 'Co-Pesquisador');
+INSERT INTO public."Prof_Projeto" VALUES (901, 13, 301, 'Gerente');
+INSERT INTO public."Prof_Projeto" VALUES (902, 2, 303, 'Gerente');
+INSERT INTO public."Prof_Projeto" VALUES (904, 4, 307, 'Gerente');
+INSERT INTO public."Prof_Projeto" VALUES (907, 7, 306, 'Gerente');
+INSERT INTO public."Prof_Projeto" VALUES (908, 8, 309, 'Gerente');
+INSERT INTO public."Prof_Projeto" VALUES (909, 9, 310, 'Gerente');

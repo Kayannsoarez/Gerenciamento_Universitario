@@ -1,0 +1,17 @@
+INSERT INTO public."Prof_Departamento" VALUES (1, 101, 64.00, 401);
+INSERT INTO public."Prof_Departamento" VALUES (2, 101, 128.00, 402);
+INSERT INTO public."Prof_Departamento" VALUES (3, 102, 32.00, 403);
+INSERT INTO public."Prof_Departamento" VALUES (4, 103, 25.00, 404);
+INSERT INTO public."Prof_Departamento" VALUES (5, 103, 10.00, 405);
+INSERT INTO public."Prof_Departamento" VALUES (6, 103, 50.00, 406);
+INSERT INTO public."Prof_Departamento" VALUES (7, 101, 40.00, 407);
+INSERT INTO public."Prof_Departamento" VALUES (8, 102, 50.00, 408);
+INSERT INTO public."Prof_Departamento" VALUES (9, 102, 30.00, 409);
+INSERT INTO public."Prof_Departamento" VALUES (10, 103, 20.00, 410);
+INSERT INTO public."Prof_Departamento" VALUES (11, 101, 20.00, 411);
+INSERT INTO public."Prof_Departamento" VALUES (12, 101, 16.00, 412);
+INSERT INTO public."Prof_Departamento" VALUES (13, 101, 32.00, 413);
+INSERT INTO public."Prof_Departamento" VALUES (14, 102, 10.00, 414);
+INSERT INTO public."Prof_Departamento" VALUES (15, 103, 256.00, 415);
+INSERT INTO public."Prof_Departamento" VALUES (1, 101, 64.00, 416);
+INSERT INTO public."Prof_Departamento" VALUES (2, 102, 32.00, 417);

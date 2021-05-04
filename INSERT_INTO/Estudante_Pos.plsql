@@ -1,0 +1,15 @@
+INSERT INTO public."Estudante_Pos" VALUES (201, '36575047025', 'Kauã Silva', 25, 'Mestrado', 103);
+INSERT INTO public."Estudante_Pos" VALUES (202, '51984290070', 'Sarah Barros ', 20, 'Doutorado', 101);
+INSERT INTO public."Estudante_Pos" VALUES (203, '89914924018', 'Matheus Santos', 31, 'Mestrado', 102);
+INSERT INTO public."Estudante_Pos" VALUES (204, '79354837018', 'Nicolash Costa', 26, 'Mestrado', 101);
+INSERT INTO public."Estudante_Pos" VALUES (205, '35835916078', 'Isabela Pereira', 30, 'Doutorado ', 105);
+INSERT INTO public."Estudante_Pos" VALUES (206, '36538017029', 'Alice Araujo', 24, 'Mestrado', 103);
+INSERT INTO public."Estudante_Pos" VALUES (207, '50253540054', 'Vinícius Ribeiro', 33, 'Doutorado ', 101);
+INSERT INTO public."Estudante_Pos" VALUES (208, '40706558081', 'Leila Martins', 21, 'Mestrado', 102);
+INSERT INTO public."Estudante_Pos" VALUES (209, '29439023066', 'Livia Cavalcant', 27, 'Mestrado', 101);
+INSERT INTO public."Estudante_Pos" VALUES (210, '89000922003', 'José Correia', 33, 'Doutorado', 103);
+INSERT INTO public."Estudante_Pos" VALUES (211, '94233540095', 'Gabrielly Alves', 30, 'Doutorado', 101);
+INSERT INTO public."Estudante_Pos" VALUES (212, '80255602014', 'Rafael Oliveira ', 22, 'Mestrado', 104);
+INSERT INTO public."Estudante_Pos" VALUES (213, '55210510077', 'Fábio Cardoso', 23, 'Mestrado', 101);
+INSERT INTO public."Estudante_Pos" VALUES (214, '93246670099', 'Enzo Rocha', 28, 'Mestrado', 103);
+INSERT INTO public."Estudante_Pos" VALUES (215, '58333159052', 'Bruno Gomes', 29, 'Doutorado', 105);
