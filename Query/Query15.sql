@@ -1,0 +1,22 @@
+CREATE FUNCTION public.professor_cpf()
+	RETURNS trigger
+	LANGUAGE 'plpgsql'
+	COST 100
+	VOLATILE NOT LEAKPROOF
+AS $BODY$
+
+DECLARE
+	param_cpf VARCHAR := NEW."CPF";
+BEGIN
+	IF(length(param_cpf) != 11) THEN
+		RAISE EXCEPTION 'CPF INVALIDO';
+	END IF;
+	RETURN NEW;
+END;
+$BODY$;
+
+CREATE TRIGGER validacpf
+BEFORE INSERT
+ON public."Professor"
+FOR EACH ROW
+EXECUTE PROCEDURE public.professor_cpf();
