@@ -70,6 +70,18 @@
 
 > [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query13.sql)
 
+## Formação de Visões (visions)
+
+> [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query14.sql)
+
+## Inserção de Triggers e Procedures
+
+* Validar tamanho do CPF do professor:
+
+> [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query15.sql)
+
+
+
 
 
 
