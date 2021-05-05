@@ -54,5 +54,12 @@
 
 > [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query10.sql)
 
+## Correlacionamento de Consultas
+
+* Selecione o departamento com mais estudantes:
+
+> [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query11.sql)
+
+
 
 
