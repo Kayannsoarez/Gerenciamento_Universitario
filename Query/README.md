@@ -36,3 +36,23 @@
 
 > [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query7.sql)
 
+## Por Agrupamento (group by)
+
+* Selecione o departamento com mais professores:
+
+> [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query8.sql)
+
+## Com Cláusula Having
+
+* Departamentos cuja a média de idade dos seus professores é maior que 45
+
+> [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query9.sql)
+
+## Consultas Aninhadas
+
+* Selecione o projeto com mais alunos
+
+> [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query10.sql)
+
+
+
