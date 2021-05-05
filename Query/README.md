@@ -60,6 +60,16 @@
 
 > [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query11.sql)
 
+## Formas de Junção (inner join, left outer join, right outer join)
+
+* Alunos e os nomes dos seus departamentos:
+
+> [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query12.sql)
+
+* Departamentos e seus chefes:
+
+> [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query13.sql)
+
 
 
 
