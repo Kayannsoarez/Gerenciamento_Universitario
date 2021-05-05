@@ -30,3 +30,9 @@
 
 > [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query6.sql)
 
+## Funções Agregadas (sum, avg, max, min, count)
+
+* Projetos com orçamento máximo e mínimo entre todos os projetos:
+
+> [Consulta](https://github.com/Kayannsoarez/Gerenciamento_Universitario/blob/main/Query/Query7.sql)
+
